@@ -10,7 +10,7 @@ Public support and policy pages for the independent Spark Amp Control macOS app 
 - Terms of Use: https://sparkcontrolapp.github.io/tos/terms/
 - MCP setup and capabilities: https://sparkcontrolapp.github.io/tos/mcp/
 
-Support contact: avner.barr@gmail.com. Reviewer-only contact details are not stored in this public repository.
+Support contact: highway.shark4q@icloud.com. Reviewer-only contact details are not stored in this public repository.
 
 ## Edit or preview
 
